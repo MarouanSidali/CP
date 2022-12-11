@@ -1,0 +1,6 @@
+/Users/alex/Projects/pert_implementation/pert_implementation/bin/Debug/pert_implementation.exe
+/Users/alex/Projects/pert_implementation/pert_implementation/bin/Debug/pert_implementation.pdb
+/Users/alex/Projects/pert_implementation/pert_implementation/obj/x86/Debug/pert_implementation.csprojResolveAssemblyReference.cache
+/Users/alex/Projects/pert_implementation/pert_implementation/obj/x86/Debug/pert_implementation.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/pert_implementation/pert_implementation/obj/x86/Debug/pert_implementation.exe
+/Users/alex/Projects/pert_implementation/pert_implementation/obj/x86/Debug/pert_implementation.pdb
